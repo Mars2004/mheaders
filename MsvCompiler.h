@@ -1,5 +1,5 @@
 /**************************************************************************************************//**
-* @defgroup		MSV_HEADERS MarsTech Headers
+* @defgroup		MHEADERS MarsTech Headers
 * @brief			MarsTech Headers
 * @details		Contains implementation and all definitions of MarsTech Headers usefull in projects.
 *					There will usually be macros definitions used in MarsTech projects.
@@ -8,7 +8,7 @@
 ******************************************************************************************************/
 
 /**************************************************************************************************//**
-* @defgroup		MSV_COMPILER MarsTech Compiler
+* @defgroup		MCOMPILER MarsTech Compiler
 * @brief			MarsTech Compiler
 * @details		Contains implementation and all definitions of MarsTech Compiler. Macros to disable
 *					or enable warnings etc.
@@ -147,6 +147,6 @@ _Pragma("GCC diagnostic ignored \"-Wextra\"")
 
 #endif // !MARSTECH_COMPILER_H
 
-/** @} */	//End of group MSV_COMPILER.
+/** @} */	//End of group MCOMPILER.
 
-/** @} */	//End of group MSV_HEADERS
+/** @} */	//End of group MHEADERS
