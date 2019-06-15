@@ -219,9 +219,9 @@ public:
 ~~~
 
 ## Usage Example
-There is also an [usage example](https://github.com/Mars2004/msys/Example) which uses the most of [MarsTech](https://github.com/Mars2004) projects and libraries.
+There is also an [usage example](https://github.com/Mars2004/msys/tree/master/Example) which uses the most of [MarsTech](https://github.com/Mars2004) projects and libraries.
 Its source codes and readme can be found at:
- - [https://github.com/Mars2004/msys/Example](https://github.com/Mars2004/msys/Example)
+ - [https://github.com/Mars2004/msys/tree/master/Example](https://github.com/Mars2004/msys/tree/master/Example)
 
 ## Source code documentation
 You can find generated source code documentation at [https://www.marstech.cz/projects/mheaders/1.0.1/doc](https://www.marstech.cz/projects/mheaders/1.0.1/doc).
