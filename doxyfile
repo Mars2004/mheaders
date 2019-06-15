@@ -44,7 +44,7 @@ PROJECT_NUMBER         = 1.0.1
 # for a project that appears at the top of each page and should give viewer a
 # quick idea about the purpose of the project. Keep the description short.
 
-PROJECT_BRIEF          = "MarsTech headers used over MarsTech projects. There will usually be macros definitions used in MarsTech projects."
+PROJECT_BRIEF          = "MarsTech headers used over MarsTech projects. There will usually be macros definitions and classes used in MarsTech projects."
 
 # With the PROJECT_LOGO tag one can specify a logo or an icon that is included
 # in the documentation. The maximum height of the logo should not exceed 55
